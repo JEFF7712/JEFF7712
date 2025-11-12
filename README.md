@@ -1,5 +1,9 @@
 ## Helo
 
+About Me:
+
+Chemical Engineering @ UW-Madison
+
 <!--
 **JEFF7712/JEFF7712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
