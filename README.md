@@ -1,9 +1,13 @@
-# Helo
+# Hello
 
 ## About Me:
-
 Chemical Engineering @ UW-Madison
 
+
+## 🌐 Socials
+- [LinkedIn](https://www.linkedin.com/in/rupan-sunderapandyan)
+- [My Website](https://rupan.dev)
+- [Email](mailto:rupanpandyan@gmail.com)
 <!--
 **JEFF7712/JEFF7712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
