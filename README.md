@@ -1,7 +1,7 @@
 # Hello
 
 ## About Me:
-Chemical Engineering @ UW-Madison
+Chemical Engineering & CS @ UW-Madison
 
 
 ## 🌐 Socials
