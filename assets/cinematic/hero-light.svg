@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 450" role="img" aria-labelledby="heroLightTitle heroLightDesc">
+  <title id="heroLightTitle">Cinematic hero frame in light mode</title>
+  <desc id="heroLightDesc">A soft gradient background with a bold #C1121F accent stripe and floating light flares.</desc>
+  <defs>
+    <linearGradient id="lightBase" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fdfdfd"/>
+      <stop offset="100%" stop-color="#f2f2f2"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="450" fill="url(#lightBase)"/>
+  <rect x="60" y="70" width="780" height="310" rx="40" ry="40" fill="#fff" filter="url(#glow)"/>
+  <rect x="120" y="160" width="660" height="130" rx="20" fill="#C1121F" opacity="0.95"/>
+  <circle cx="720" cy="120" r="35" fill="#fff" opacity="0.5"/>
+  <circle cx="200" cy="320" r="40" fill="#fff" opacity="0.2"/>
+</svg>
