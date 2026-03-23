@@ -3,7 +3,7 @@
 ## About Me:
 Chemical Engineering & CS @ UW-Madison
 
-## My Projects
+## Projects
 - 🧪 **[solubility-predictor](https://github.com/JEFF7712/solubility-predictor)** - A machine learning model for predicting the solubility of chemical compounds
 - ⚛️ **[md-engine](https://github.com/JEFF7712/md-engine)** - A high-performance Molecular Dynamics (MD) engine written in C++ and CUDA.
 - ❄️ **[nix-agent](https://github.com/JEFF7712/nix-agent)** - Agent MCP server + skill for managing your NixOS system 
