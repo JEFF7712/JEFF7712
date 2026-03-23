@@ -10,9 +10,17 @@ Chemical Engineering & CS @ UW-Madison
 - 🛠️ **[nixos-config](https://github.com/JEFF7712/nixos-config)** - My NixOS configuration
 - 🏠 **[homelab](https://github.com/JEFF7712/homelab)** - My homelab IaC configuration
 - 🤖 **[pulse](https://pulse.rupan.dev/)** - Personal Intelligence Agent
-- 🛋️ **[spatia](https://spatia.rupan.dev/)** - Interior Design AI App
+- 🛋️ **[spatia](https://spatia.rupan.dev/)** - 3D walkthrough of your room, redesigned by AI.
 - 🌐 **[rupan.dev](https://rupan.dev)** - My personal website
 - 📝 **[notes](https://notes.rupan.dev)** - My personal obsidian vault/notes
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JEFF7712&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JEFF7712&layout=compact&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JEFF7712&theme=transparent)
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/rupan-sunderapandyan)
