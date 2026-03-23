@@ -10,7 +10,7 @@ Chemical Engineering & CS @ UW-Madison
 - 🛠️ **[nixos-config](https://github.com/JEFF7712/nixos-config)** - My NixOS configuration
 - 🏠 **[homelab](https://github.com/JEFF7712/homelab)** - My homelab IaC configuration
 - 🤖 **[pulse](https://pulse.rupan.dev/)** - Personal Intelligence Agent
-- 🛋️ **[spatia](https://spatia.rupan.dev/)** - 3D walkthrough of your room, redesigned by AI.
+- 🛋️ **[spatia](https://spatia.rupan.dev/)** - 3D walkthrough AI interior design tool
 - 🌐 **[rupan.dev](https://rupan.dev)** - My personal website
 - 📝 **[notes](https://notes.rupan.dev)** - My personal obsidian vault/notes
 
