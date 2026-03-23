@@ -18,8 +18,6 @@ Chemical Engineering & CS @ UW-Madison
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JEFF7712&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JEFF7712&layout=compact&theme=transparent)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=JEFF7712&theme=transparent)
 
 ## Connect
