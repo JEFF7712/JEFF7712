@@ -11,10 +11,13 @@ Chemical Engineering & CS @ UW-Madison
 - 🏠 **[homelab](https://github.com/JEFF7712/homelab)** - My homelab IaC configuration
 - 🤖 **[pulse](https://pulse.rupan.dev/)** - Personal Intelligence Agent
 - 🛋️ **[spatia](https://spatia.rupan.dev/)** - 3D walkthrough AI interior design tool
-- 🌐 **[rupan.dev](https://rupan.dev)** - My personal website
-- 📝 **[notes](https://notes.rupan.dev)** - My personal obsidian vault/notes
+- 🌐 **[rupan.dev](https://rupan.dev)** - My website
+- 📝 **[notes](https://notes.rupan.dev)** - My obsidian vault/notes
+- 📚 **[claude-tutor](https://github.com/JEFF7712/claude-tutor)** - An adaptive tutor skill for Claude Code
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/rupan-sunderapandyan)
 - [My Website](https://rupan.dev)
 - [Email](mailto:rupanpandyan@gmail.com)
+- [X](https://x.com/sunderapandyan)
+- [Instagram](https://www.instagram.com/rupan__s/)
