@@ -9,7 +9,7 @@ Chemical Engineering & CS @ UW-Madison
 - ❄️ **[nix-agent](https://github.com/JEFF7712/nix-agent)** - Agent MCP server + skill for managing your NixOS system 
 - 🛠️ **[nixos-config](https://github.com/JEFF7712/nixos-config)** - My NixOS configuration
 - 🏠 **[homelab](https://github.com/JEFF7712/homelab)** - My homelab IaC configuration
-- 🤖 **[pulse](https://pulse.rupan.dev/)** - Personal Intelligence Agent
+- 🤖 **[pulse](https://pulseagent.dev/)** - Personal Intelligence Agent
 - 🛋️ **[spatia](https://spatia.rupan.dev/)** - 3D walkthrough AI interior design tool
 - 🌐 **[rupan.dev](https://rupan.dev)** - My website
 - 📝 **[notes](https://notes.rupan.dev)** - My obsidian vault/notes
