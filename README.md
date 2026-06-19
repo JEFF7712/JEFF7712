@@ -1,7 +1,7 @@
 # Hello
 
 ## About Me:
-Chemical Engineering & CS @ UW-Madison
+Chemistry & CS @ UW-Madison
 
 ## Projects
 - 🤖 **[pulse](https://pulseagent.dev/)** - Personal Intelligence Agent
