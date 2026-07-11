@@ -13,6 +13,10 @@ Chemistry & CS @ UW-Madison
 - 🏠 **[homelab](https://github.com/JEFF7712/homelab)** - My homelab IaC configuration
 - 🌐 **[rupan.dev](https://rupan.dev)** - My website
 - 📝 **[notes](https://notes.rupan.dev)** - My obsidian vault/notes
+- 🧠 **[vault-mind](https://github.com/JEFF7712/vault-mind)** - Learning-first Claude Code skills for a Markdown knowledge vault
+- 🕸️ **[neuralnet-in-c](https://github.com/JEFF7712/neuralnet-in-c)** - A neural network trained on MNIST, written from scratch in C
+- 📊 **[cctop](https://github.com/JEFF7712/cctop)** - A minimal terminal dashboard for computational chemistry output folders
+- 🗜️ **[autocompress](https://github.com/JEFF7712/autocompress)** - Agentic system attempting to beat the Hutter Prize compression record
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/rupan-sunderapandyan)
