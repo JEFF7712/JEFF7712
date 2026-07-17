@@ -17,6 +17,7 @@ Chemistry & CS @ UW-Madison
 - 🕸️ **[neuralnet-in-c](https://github.com/JEFF7712/neuralnet-in-c)** - A neural network trained on MNIST, written from scratch in C
 - 📊 **[cctop](https://github.com/JEFF7712/cctop)** - A minimal terminal dashboard for computational chemistry output folders
 - 🗜️ **[autocompress](https://github.com/JEFF7712/autocompress)** - Agentic system attempting to beat the Hutter Prize compression record
+- 🎓 **[majorfinder](https://majorfinder.pages.dev/)** - Estimate UW-Madison STEM major progress from the courses you've taken
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/rupan-sunderapandyan)
