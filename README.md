@@ -10,7 +10,7 @@ Chemistry & CS @ UW-Madison
 - 🧪 **[solubility-predictor](https://github.com/JEFF7712/solubility-predictor)** - A machine learning model for predicting the solubility of chemical compounds
 - ⚛️ **[md-engine](https://github.com/JEFF7712/md-engine)** - A high-performance Molecular Dynamics (MD) engine written in C++ and CUDA.
 - 🛠️ **[nixos-config](https://github.com/JEFF7712/nixos-config)** - My NixOS configuration
-- 🏠 **[homelab](https://github.com/JEFF7712/homelab)** - My homelab IaC configuration
+- 🏠 **[homelab](https://github.com/JEFF7712/homelab-new)** - My homelab IaC configuration
 - 🌐 **[rupan.dev](https://rupan.dev)** - My website
 - 📝 **[notes](https://notes.rupan.dev)** - My obsidian vault/notes
 - 🧠 **[vault-mind](https://github.com/JEFF7712/vault-mind)** - Learning-first Claude Code skills for a Markdown knowledge vault
