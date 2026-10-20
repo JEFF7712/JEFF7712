@@ -18,6 +18,7 @@ Chemistry & CS @ UW-Madison
 - 📊 **[cctop](https://github.com/JEFF7712/cctop)** - A minimal terminal dashboard for computational chemistry output folders
 - 🗜️ **[autocompress](https://github.com/JEFF7712/autocompress)** - Agentic system attempting to beat the Hutter Prize compression record
 - 🎓 **[majorfinder](https://majorfinder.pages.dev/)** - Estimate UW-Madison STEM major progress from the courses you've taken
+- 🗺️ **[uwagent](https://uwagent.rupan.dev/)** - Agent-first UW-Madison degree planner, plan from a DARS audit and degree-plan PDF in chat
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/rupan-sunderapandyan)
