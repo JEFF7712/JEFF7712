@@ -4,7 +4,6 @@
 Chemistry & CS @ UW-Madison
 
 ## Projects
-- 🤖 **[pulse](https://pulseagent.dev/)** - Personal Intelligence Agent
 - ❄️ **[nix-agent](https://nix-agent.rupan.dev/)** - Agent MCP server + skill for managing your NixOS system
 - 📚 **[claude-tutor](https://github.com/JEFF7712/claude-tutor)** - An adaptive tutor skill for Claude Code
 - 🧪 **[solubility-predictor](https://github.com/JEFF7712/solubility-predictor)** - A machine learning model for predicting the solubility of chemical compounds
@@ -19,6 +18,8 @@ Chemistry & CS @ UW-Madison
 - 🗜️ **[autocompress](https://github.com/JEFF7712/autocompress)** - Agentic system attempting to beat the Hutter Prize compression record
 - 🎓 **[majorfinder](https://majorfinder.rupan.dev/)** - Estimate UW-Madison STEM major progress from the courses you've taken
 - 🗺️ **[uwagent](https://uwagent.rupan.dev/)** - Agent-first UW-Madison degree planner, plan from a DARS audit and degree-plan PDF in chat
+- 🤖 **[pulse](https://pulseagent.dev/)** - Personal Intelligence Agent
+
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/rupan-sunderapandyan)
